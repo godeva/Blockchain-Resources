@@ -16,6 +16,9 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 * **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
 
+
+* **[https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum](https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum)**
+
 **FDAS Cryptocurrencies Glossary**
 
 
@@ -130,6 +133,13 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 
 #### **News/Info**
+
+**MIT Bitcoin Expo**
+
+
+
+* [https://www.mitbitcoinexpo.org/](https://www.mitbitcoinexpo.org/)
+
 
 **What Are Vampire Attacks: The Dangers of Incentivized Liquidity**
 

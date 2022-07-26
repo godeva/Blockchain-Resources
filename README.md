@@ -182,6 +182,18 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * [https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
 
 
+**Solana and Ethereum smart contract audits, explained**
+
+
+
+* [https://cointelegraph.com/explained/solana-and-ethereum-smart-contract-audits-explained](https://cointelegraph.com/explained/solana-and-ethereum-smart-contract-audits-explained)
+
+**A set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more!**
+
+* [https://github.com/OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi)
+
+
+
 #### **Privacy/Security Tools**
 
 **Brave Browser Tips & Tricks // Become a Brave Power User!**

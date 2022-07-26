@@ -6,11 +6,15 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 **Bitcoin Wiki**
 
-**[https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page)**
+
+
+* **[https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page)**
 
 **Ethereum Whitepaper**
 
-**[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
+
+
+* **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
 
 **FDAS Cryptocurrencies Glossary**
 
@@ -43,7 +47,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * **[https://www.coingecko.com/](https://www.coingecko.com/)**
 
 
-#### **Tools **
+#### **Tools**
 
 **Uniswap interface**
 
@@ -201,8 +205,41 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 #### **Podcasts Tools**
 
-SDS 139: The Rise of Blockchain: A Disruptive Super-Technology Much More Than Bitcoin
+**SDS 139: The Rise of Blockchain: A Disruptive Super-Technology Much More Than Bitcoin**
 
-[https://www.superdatascience.com/podcast/podcast-rise-of-blockchain](https://www.superdatascience.com/podcast/podcast-rise-of-blockchain)
 
-[https://soundcloud.com/superdatascience/sds-139-the-rise-of-blockchain-a-disruptive-super-technology-much-more-than-bitcoin](https://soundcloud.com/superdatascience/sds-139-the-rise-of-blockchain-a-disruptive-super-technology-much-more-than-bitcoin)
+
+* [https://www.superdatascience.com/podcast/podcast-rise-of-blockchain](https://www.superdatascience.com/podcast/podcast-rise-of-blockchain)
+* [https://soundcloud.com/superdatascience/sds-139-the-rise-of-blockchain-a-disruptive-super-technology-much-more-than-bitcoin](https://soundcloud.com/superdatascience/sds-139-the-rise-of-blockchain-a-disruptive-super-technology-much-more-than-bitcoin)
+
+**The Defiant - DeFi Podcast Camila Russo **
+
+
+
+* [https://podcasts.apple.com/us/podcast/the-defiant-defi-podcast/id1512654905](https://podcasts.apple.com/us/podcast/the-defiant-defi-podcast/id1512654905)
+
+**On The Brink with Castle Island (Really good) **
+
+
+
+* [https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463](https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463)
+
+**Earliest fellow to cover Crypto (both of hers are good)**
+
+
+
+*  [https://www.laurashin.com/podcast/](https://www.laurashin.com/podcast/)
+
+**The What Bitcoin Did Podcast**
+
+
+
+*  [https://www.whatbitcoindid.com/](https://www.whatbitcoindid.com/)
+
+**bankless podcast (listen 2x speed, its okay) **
+
+
+
+* [http://podcast.banklesshq.com/](http://podcast.banklesshq.com/)
+
+**Other Notes the brief twitter compass has there own podcast (need to look into)**

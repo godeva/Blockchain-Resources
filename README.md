@@ -20,6 +20,8 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 **Making sense of bitcoin, cryptocurrency and blockchain**
 
+
+
 * **[https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
 
 

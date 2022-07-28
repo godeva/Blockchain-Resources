@@ -10,6 +10,13 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 * **[https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page)**
 
+**Corporate Finance Institute (CFI) - Intro to Crypto**
+
+
+
+* **[https://corporatefinanceinstitute.com/course/introduction-to-cryptocurrency/](https://corporatefinanceinstitute.com/course/introduction-to-cryptocurrency/)**
+
+
 **Ethereum Whitepaper**
 
 

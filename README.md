@@ -17,6 +17,12 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * **[https://corporatefinanceinstitute.com/course/introduction-to-cryptocurrency/](https://corporatefinanceinstitute.com/course/introduction-to-cryptocurrency/)**
 
 
+
+**Making sense of bitcoin, cryptocurrency and blockchain**
+
+* **[https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
+
+
 **Ethereum Whitepaper**
 
 

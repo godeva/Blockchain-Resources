@@ -109,6 +109,11 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * [https://daocentral.com/dao/fwb](https://daocentral.com/dao/fwb)
 
 
+**How does a blockchain work - Simply Explained**
+* [https://www.youtube.com/watch?v=SSo_EIwHSd4&t=99s](https://www.youtube.com/watch?v=SSo_EIwHSd4&t=99s)
+
+
+
 #### **Frameworks**
 
 **Ropsten testnet faucet**

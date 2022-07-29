@@ -1,6 +1,7 @@
 # Blockchain-Resources
 Compiled list of resources to help familiarize users with blockchain technologies
 
+___
 
 ### **Learning Resources**
 

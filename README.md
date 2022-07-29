@@ -2,7 +2,7 @@
 Compiled list of resources to help familiarize users with blockchain technologies
 
 
-#### **Learning Resources**
+### **Learning Resources**
 
 **Bitcoin Wiki**
 
@@ -65,7 +65,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * **[https://www.coingecko.com/](https://www.coingecko.com/)**
 
 
-#### **Tools**
+### **Tools**
 
 **Uniswap interface**
 
@@ -114,7 +114,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 
 
 
-#### **Frameworks**
+### **Frameworks**
 
 **Ropsten testnet faucet**
 
@@ -245,7 +245,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 * [https://amiunique.org/fp](https://amiunique.org/fp)
 
 
-#### **Podcasts Tools**
+### **Podcasts Tools**
 
 **SDS 139: The Rise of Blockchain: A Disruptive Super-Technology Much More Than Bitcoin**
 

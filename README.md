@@ -65,6 +65,7 @@ ___
 
 * **[https://www.coingecko.com/](https://www.coingecko.com/)**
 
+___
 
 ### **Tools**
 
@@ -113,7 +114,7 @@ ___
 **How does a blockchain work - Simply Explained**
 * [https://www.youtube.com/watch?v=SSo_EIwHSd4&t=99s](https://www.youtube.com/watch?v=SSo_EIwHSd4&t=99s)
 
-
+___
 
 ### **Frameworks**
 
@@ -152,8 +153,9 @@ ___
 * **Quick Pub/Sub tool, great for quick POCs**
 * [https://zeromq.org/](https://zeromq.org/)
 
+___
 
-#### **News/Info**
+### **News/Info**
 
 **MIT Bitcoin Expo**
 
@@ -223,9 +225,9 @@ ___
 
 * [https://github.com/OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi)
 
+___
 
-
-#### **Privacy/Security Tools**
+### **Privacy/Security Tools**
 
 **Brave Browser Tips & Tricks // Become a Brave Power User!**
 
@@ -245,6 +247,7 @@ ___
 
 * [https://amiunique.org/fp](https://amiunique.org/fp)
 
+___
 
 ### **Podcasts Tools**
 

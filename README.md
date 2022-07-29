@@ -66,12 +66,19 @@ ___
 * **[https://www.coingecko.com/](https://www.coingecko.com/)**
 
 
-**Explain Bitcoin Like I’m Five**
+**What is Bitcoin Mining for Beginners - Short and Simple**
 
 
 
 * **[https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/)**
 
+
+
+**Explain Bitcoin Like I’m Five**
+
+
+
+* **[https://www.youtube.com/watch?v=mrtSAgcpack&t=12s](https://www.youtube.com/watch?v=mrtSAgcpack&t=12s)**
 
 
 ___

@@ -65,6 +65,15 @@ ___
 
 * **[https://www.coingecko.com/](https://www.coingecko.com/)**
 
+
+**Explain Bitcoin Like I’m Five**
+
+
+
+* **[https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/](https://www.freecodecamp.org/news/explain-bitcoin-like-im-five-73b4257ac833/)**
+
+
+
 ___
 
 ### **Tools**

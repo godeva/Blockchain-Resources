@@ -305,3 +305,6 @@ ___
 * [http://podcast.banklesshq.com/](http://podcast.banklesshq.com/)
 
 **Other Notes the brief twitter compass has there own podcast (need to look into)**
+
+**Not Boring Packy McCormick **
+* [https://podcasts.apple.com/us/podcast/not-boring/id1527421931](https://podcasts.apple.com/us/podcast/not-boring/id1527421931)

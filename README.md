@@ -26,11 +26,12 @@ ___
 * **[https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html](https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html)
 
 
-**Ethereum Whitepaper**
+**Ethereum Whitepaper and Fidelity Insights**
 
 
 
 * **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
+* **[https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum](https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum)**
 
 
 **Ethereum Improvement Proposals**
@@ -43,11 +44,8 @@ ___
 
 
 
-* **[https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum](https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum)**
 
 **FDAS Cryptocurrencies Glossary**
-
-
 
 * [https://www.fidelity.ca/en/investor/cryptocurrencies-glossary/](https://www.fidelity.ca/en/investor/cryptocurrencies-glossary/)
 

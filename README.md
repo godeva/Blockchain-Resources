@@ -33,6 +33,16 @@ ___
 * **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
 
 
+**Ethereum Improvement Proposals**
+
+
+
+* **[https://eips.ethereum.org/](https://eips.ethereum.org/)**
+
+
+
+
+
 * **[https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum](https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum)**
 
 **FDAS Cryptocurrencies Glossary**

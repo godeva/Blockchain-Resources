@@ -96,11 +96,6 @@ ___
 * **[https://www.ledger.com/start](https://www.ledger.com/start)**
 
 
-
-
-https://www.ledger.com/start
-
-
 ___
 
 ### **Tools**

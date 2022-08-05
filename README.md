@@ -89,6 +89,18 @@ ___
 * **[https://www.youtube.com/watch?v=mrtSAgcpack&t=12s](https://www.youtube.com/watch?v=mrtSAgcpack&t=12s)**
 
 
+**Ledger Starting Guide if you want a cold wallet**
+
+
+
+* **[https://www.ledger.com/start](https://www.ledger.com/start)**
+
+
+
+
+https://www.ledger.com/start
+
+
 ___
 
 ### **Tools**

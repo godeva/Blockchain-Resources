@@ -42,7 +42,11 @@ ___
 
 
 
+**Mastering Ethereum Book**
 
+
+
+* **[https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)**
 
 
 **FDAS Cryptocurrencies Glossary**
@@ -214,6 +218,14 @@ ___
 
 ### **News/Info**
 
+
+**Be In Crypto**
+
+
+
+* [https://beincrypto.com/](https://beincrypto.com/)
+
+
 **Crypto Events**
 
 
@@ -222,7 +234,7 @@ ___
 
 
 
-**blockworks News Website**
+**Blockworks News Website**
 
 
 
@@ -296,6 +308,11 @@ ___
 **A set of challenges to hack implementations of DeFi in Ethereum. Featuring flash loans, oracles, governance, NFTs, lending pools, and more!**
 
 * [https://github.com/OpenZeppelin/damn-vulnerable-defi](https://github.com/OpenZeppelin/damn-vulnerable-defi)
+
+
+**Dusting attack**
+**A dusting attack is an attack on a cryptocurrency wallet that sends tiny amounts of cryptocurrency (known as "dust") to that wallet in order to uncover the identity of the wallet's owner. Information can then be used to obstruct receiving legitimate payments or phishing scams.**
+* [https://en.wikipedia.org/wiki/Dusting_attack](https://en.wikipedia.org/wiki/Dusting_attack)
 
 ___
 

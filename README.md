@@ -100,6 +100,32 @@ ___
 
 ### **Tools**
 
+
+**Figment**
+
+
+
+* **Providers of blockchain infrastructure web3**
+* **[https://www.figment.io/](https://www.figment.io/)**
+
+**CENTRE Token Repo**
+
+
+
+* **Source repository for fiat tokens on the CENTRE network.**
+* **[https://github.com/centrehq/centre-tokens](https://github.com/centrehq/centre-tokens)**
+
+
+**RocketPool**
+
+
+
+* **Decentralised Etheruem stacking protocol**
+* **[https://rocketpool.net/](https://rocketpool.net/)**
+
+
+
+
 **Uniswap interface**
 
 
@@ -187,6 +213,14 @@ ___
 ___
 
 ### **News/Info**
+
+**Crypto Events**
+
+
+
+* [https://cryptoevents.global/](https://cryptoevents.global/)
+
+
 
 **blockworks News Website**
 

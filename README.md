@@ -41,6 +41,13 @@ ___
 * **[https://eips.ethereum.org/](https://eips.ethereum.org/)**
 
 
+**What is staking**
+
+
+
+* **[https://www.coinbase.com/learn/crypto-basics/what-is-staking](https://www.coinbase.com/learn/crypto-basics/what-is-staking)**
+
+
 
 **Mastering Ethereum Book**
 
@@ -48,6 +55,12 @@ ___
 
 * **[https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook)**
 
+
+**SpeedRun Ethereum Development Learning**
+
+
+
+* **[https://speedrunethereum.com/](https://speedrunethereum.com/)**
 
 **FDAS Cryptocurrencies Glossary**
 
@@ -335,6 +348,19 @@ ___
 
 
 * [https://amiunique.org/fp](https://amiunique.org/fp)
+
+
+**Who accepts bitcoin**
+
+
+* [https://99bitcoins.com/bitcoin/who-accepts/](https://99bitcoins.com/bitcoin/who-accepts/)
+
+
+
+**Aztec privacy layer for web3**
+
+
+* [https://aztec.network/](https://aztec.network/)
 
 ___
 

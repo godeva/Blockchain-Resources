@@ -5,8 +5,8 @@ Compiled list of resources to help familiarize users with blockchain technologie
 	- [Learning Resources](#Learning-Resources)
 	- [Tools](#Tools)
 	- [Frameworks](#Frameworks)
- 	- [News/Info](#News/Info)
- 	- [Privacy/Security Tools](#Privacy/Security-Tools)
+ 	- [News](#News)
+ 	- [Defi Tools](#Defi-Tools)
   - [Podcasts](#Podcasts)
 
 ___
@@ -237,7 +237,7 @@ ___
 
 ___
 
-### **News/Info**
+### **News**
 
 
 **Be In Crypto**
@@ -337,7 +337,7 @@ ___
 
 ___
 
-### **Privacy/Security Tools**
+### **Defi Tools**
 
 **Brave Browser Tips & Tricks // Become a Brave Power User!**
 

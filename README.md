@@ -2,11 +2,11 @@
 Compiled list of resources to help familiarize users with blockchain technologies
 
 - [Table of Contents](#table-of-contents)
-	- [Learning Resources](#Learning Resources)
+	- [Learning Resources](#Learning-Resources)
 	- [Tools](#Tools)
 	- [Frameworks](#Frameworks)
  	- [News/Info](#News/Info)
- 	- [Privacy/Security Tools](#Privacy/Security Tools)
+ 	- [Privacy/Security Tools](#Privacy/Security-Tools)
   - [Podcasts](#Podcasts)
 
 ___

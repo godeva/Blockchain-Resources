@@ -7,6 +7,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 	- [Frameworks](#Frameworks)
  	- [News](#News)
  	- [Defi Tools](#Defi-Tools)
+ 	- [Smart Contract](#Smart-Contract)
   - [Podcasts](#Podcasts)
 
 ___
@@ -340,6 +341,14 @@ ___
 **A dusting attack is an attack on a cryptocurrency wallet that sends tiny amounts of cryptocurrency (known as "dust") to that wallet in order to uncover the identity of the wallet's owner. Information can then be used to obstruct receiving legitimate payments or phishing scams.**
 * [https://en.wikipedia.org/wiki/Dusting_attack](https://en.wikipedia.org/wiki/Dusting_attack)
 
+
+https://www.thedailyupside.com/
+
+https://www.execsum.co/
+
+https://blockworks.co/newsletter/
+
+
 ___
 
 ### **Defi Tools**
@@ -374,6 +383,30 @@ ___
 
 
 * [https://aztec.network/](https://aztec.network/)
+
+___
+
+### **Smart Contract**
+
+
+https://github.com/sigp/solidity-security-blog
+https://swcregistry.io/
+https://ethernaut.openzeppelin.com/
+Finish Moralis Youtube tutorial
+Solidity documentation
+EIP standards - https://eips.ethereum.org/
+https://github.com/ConsenSys/smart-contract-best-practices
+Chainlink tutorials https://docs.openzeppelin.com/
+GitHub - sigp/solidity-security-blog: Comprehensive list of known attack vectors and common anti-patterns
+Comprehensive list of known attack vectors and common anti-patterns - GitHub - sigp/solidity-security-blog: Comprehensive list of known attack vectors and common anti-patterns
+
+New token standard allows for nfts to be "rented". ERC-4907
+Dimond storage - https://eips.ethereum.org/EIPS/eip-1967
+ Tokenized vaults - https://eips.ethereum.org/EIPS/eip-4626
+https://cryptomarketpool.com/vaults-and-the-erc-4626-token-contract/
+Address calculator/predictor - https://eips.ethereum.org/EIPS/eip-1014EIPs/eip-4907.md at master · ethereum/EIPs
+The Ethereum Improvement Proposal repository. Contribute to ethereum/EIPs development by creating an account on GitHub.
+
 
 ___
 

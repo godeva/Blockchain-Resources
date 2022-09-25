@@ -8,8 +8,8 @@ Compiled list of resources to help familiarize users with blockchain technologie
  	- [News](#News)
  	- [Defi Tools](#Defi-Tools)
  	- [Smart Contract](#Smart-Contract)
-  - [Podcasts](#Podcasts)
-
+	- [Podcasts](#Podcasts)
+	- [Hackathons](#Hackathons)
 ___
 
 ### **Learning Resources**
@@ -453,3 +453,12 @@ ___
 
 **Not Boring Packy McCormick **
 * [https://podcasts.apple.com/us/podcast/not-boring/id1527421931](https://podcasts.apple.com/us/podcast/not-boring/id1527421931)
+
+___
+
+### **Hackathons**
+
+**Ethglobal Hackathon**
+Great begineer friendly guides to get started
+* [https://ethglobal.com/guides](https://ethglobal.com/guides)
+* [https://www.youtube.com/watch?v=70WtsHtFd8Y](https://www.youtube.com/watch?v=70WtsHtFd8Y)

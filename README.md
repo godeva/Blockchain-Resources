@@ -8,6 +8,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
  	- [News](#News)
  	- [Defi Tools](#Defi-Tools)
  	- [Smart Contract](#Smart-Contract)
+	- [Problems](#Problems)
 	- [Podcasts](#Podcasts)
 	- [Hackathons](#Hackathons)
 ___
@@ -406,6 +407,23 @@ Dimond storage - https://eips.ethereum.org/EIPS/eip-1967
 https://cryptomarketpool.com/vaults-and-the-erc-4626-token-contract/
 Address calculator/predictor - https://eips.ethereum.org/EIPS/eip-1014EIPs/eip-4907.md at master · ethereum/EIPs
 The Ethereum Improvement Proposal repository. Contribute to ethereum/EIPs development by creating an account on GitHub.
+
+___
+
+### **Problems**
+
+**The Double Spending Problem **
+
+
+
+* [https://komodoplatform.com/en/academy/double-spending-problem/](https://komodoplatform.com/en/academy/double-spending-problem/)
+
+**Travelling salesman problem **
+
+
+
+* [https://en.wikipedia.org/wiki/Travelling_salesman_problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
+
 
 
 ___

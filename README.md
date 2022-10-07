@@ -8,6 +8,8 @@ Compiled list of resources to help familiarize users with blockchain technologie
  	- [News](#News)
  	- [Defi Tools](#Defi-Tools)
  	- [Smart Contract](#Smart-Contract)
+	- [Terms](#Terms)
+	- [Services](#Services)
 	- [Problems](#Problems)
 	- [Podcasts](#Podcasts)
 	- [Hackathons](#Hackathons)
@@ -407,6 +409,39 @@ Dimond storage - https://eips.ethereum.org/EIPS/eip-1967
 https://cryptomarketpool.com/vaults-and-the-erc-4626-token-contract/
 Address calculator/predictor - https://eips.ethereum.org/EIPS/eip-1014EIPs/eip-4907.md at master · ethereum/EIPs
 The Ethereum Improvement Proposal repository. Contribute to ethereum/EIPs development by creating an account on GitHub.
+
+
+___
+
+### **Terms**
+
+**Total value locked **
+* The amount of user funds deposited in a decentralized finance (DeFi) protocol. These funds could be vested in the project for several functions, such as staking, liquidity pools, or lending.
+
+___
+
+### **Services**
+
+**Apeboard**
+Decentralized finance (DeFi) sector via crypto-asset aggregator and portfolio dashboard.
+* [https://apeboard.finance/radar](https://apeboard.finance/radar)
+
+**opensea io**
+Largest nft marketplace
+* [https://opensea.io/](https://opensea.io/)
+
+**tokenpad**
+most trusted and comprehensive web3 investment app. Our simplified UX supports both centralized and decentralized wallets, DeFi, NFT & Crypto assets. This allows users to have a complete overview of their web3 investments in one place.
+* [https://tokenpad.io/](https://tokenpad.io/)
+
+**Strike **
+Strike offers the easiest way to buy bitcoin. Skip fees and stack sats, the right way. Taken from your paycheck to put into bitcoin and you save on fees.
+* [https://strike.me/](https://strike.me/)
+
+**Bitrefill **
+Pay your bill, morgages, food through cypto
+* [https://www.bitrefill.com/buy/usa/?hl=en](https://www.bitrefill.com/buy/usa/?hl=en)
+
 
 ___
 

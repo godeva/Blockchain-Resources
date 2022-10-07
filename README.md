@@ -422,6 +422,18 @@ ___
 
 ### **Services**
 
+**Coindance**
+Coin Dance is an online platform that positions itself as a community-driven, Bitcoin statistics and services platform. Coin Dance's Bitcoin surveys are conducted by their platform team, who collect such information as trading volumes, percentages of people supporting Segwit rather than Bitcoin Unlimited, and so on.
+* [https://coin.dance/](https://coin.dance/)
+
+**Dune Analytics**
+Dune Analytics is a data platform that crypto-asset analysts and investors use to research specific projects such as NFTs, DeFi platforms, or blockchain ecosystems. Anyone can query the data and create visualizations using Dune.
+* [https://dune.com/browse/dashboards](https://dune.com/browse/dashboards)
+
+**Alchemy**
+Alchemy, which is known as the AWS of web3, was the fastest-growing company in history last year, going from public launch to being worth $10B in 16 months. Alchemy is the developer platform powering $100 billion dollars in transactions for the top web3 applications around the globe.
+* [alchemy.com](alchemy.com)
+
 **Apeboard**
 Decentralized finance (DeFi) sector via crypto-asset aggregator and portfolio dashboard.
 * [https://apeboard.finance/radar](https://apeboard.finance/radar)
@@ -441,6 +453,10 @@ Strike offers the easiest way to buy bitcoin. Skip fees and stack sats, the righ
 **Bitrefill **
 Pay your bill, morgages, food through cypto
 * [https://www.bitrefill.com/buy/usa/?hl=en](https://www.bitrefill.com/buy/usa/?hl=en)
+
+**Trezor **
+hardware wallets that store cryptocurrency and tokens offline on physical USB-like devices. The cold wallets allow users to have full control over their private keys and assets. Unlike hot wallets, Trezor and Ledger devices enable users to view coins without an internet connection or computer.
+* [https://trezor.io/](https://trezor.io/)
 
 
 ___

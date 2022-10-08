@@ -53,6 +53,15 @@ ___
 * **[https://eips.ethereum.org/](https://eips.ethereum.org/)**
 
 
+**Ethereum Roadmap**
+
+
+
+* **[https://ethereumroadmap.com/](https://ethereumroadmap.com/)**
+
+
+
+
 **What is staking**
 
 
@@ -457,6 +466,11 @@ Pay your bill, morgages, food through cypto
 **Trezor **
 hardware wallets that store cryptocurrency and tokens offline on physical USB-like devices. The cold wallets allow users to have full control over their private keys and assets. Unlike hot wallets, Trezor and Ledger devices enable users to view coins without an internet connection or computer.
 * [https://trezor.io/](https://trezor.io/)
+
+
+**Compund Finance **
+Compound Finance is a marketplace used by crypto investors to lend and borrow their digital assets. Compound crypto is a decentralized protocol, or dApp, built on a blockchain. Users can also vote on the governance structure of the Compound protocol using the COMP token
+* [https://compound.finance/](https://compound.finance/)
 
 
 ___

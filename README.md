@@ -455,23 +455,23 @@ Largest nft marketplace
 most trusted and comprehensive web3 investment app. Our simplified UX supports both centralized and decentralized wallets, DeFi, NFT & Crypto assets. This allows users to have a complete overview of their web3 investments in one place.
 * [https://tokenpad.io/](https://tokenpad.io/)
 
-**Strike **
+**Strike**
 Strike offers the easiest way to buy bitcoin. Skip fees and stack sats, the right way. Taken from your paycheck to put into bitcoin and you save on fees.
 * [https://strike.me/](https://strike.me/)
 
-**Bitrefill **
+**Bitrefill**
 Pay your bill, morgages, food through cypto
 * [https://www.bitrefill.com/buy/usa/?hl=en](https://www.bitrefill.com/buy/usa/?hl=en)
 
-**Trezor **
-hardware wallets that store cryptocurrency and tokens offline on physical USB-like devices. The cold wallets allow users to have full control over their private keys and assets. Unlike hot wallets, Trezor and Ledger devices enable users to view coins without an internet connection or computer.
+**Trezor**
+Hardware wallets that store cryptocurrency and tokens offline on physical USB-like devices. The cold wallets allow users to have full control over their private keys and assets. Unlike hot wallets, Trezor and Ledger devices enable users to view coins without an internet connection or computer.
 * [https://trezor.io/](https://trezor.io/)
 
-**Compund Finance **
+**Compund Finance**
 Compound Finance is a marketplace used by crypto investors to lend and borrow their digital assets. Compound crypto is a decentralized protocol, or dApp, built on a blockchain. Users can also vote on the governance structure of the Compound protocol using the COMP token
 * [https://compound.finance/](https://compound.finance/)
 
-**Consensys **
+**Consensys**
 ConsenSys is a market-leading blockchain technology company. From developer tools to enterprise solutions, ConsenSys is building Ethereum blockchain infrastructure and applications for new economic systems that are more open, efficient, and secure. ConsenSys is the leading Ethereum software company.
 * [https://consensys.net/](https://consensys.net/)
 

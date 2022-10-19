@@ -23,6 +23,13 @@ ___
 
 * **[https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page)**
 
+
+**Bitcoin Whitepaper**
+
+
+* **[https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)**
+
+
 **Corporate Finance Institute (CFI) - Intro to Crypto**
 
 
@@ -40,8 +47,7 @@ ___
 
 **Ethereum Whitepaper and Fidelity Insights**
 
-
-
+* **[http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html](http://web.archive.org/web/20131228111141/http://vbuterin.com/ethereum.html)**
 * **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
 * **[https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum](https://www.fidelitydigitalassets.com/research-and-insights/about-ethereum)**
 

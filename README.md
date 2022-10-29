@@ -146,6 +146,9 @@ ___
 ### **Tools**
 
 
+** Hashrate calculator**
+* **[https://whattomine.com/coins](https://whattomine.com/coins)**
+
 **Figment**
 
 
@@ -443,6 +446,10 @@ ___
 
 **  keep your ETH staking node in great shape and up-to-date. **
 * **[https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-ii-maintenance](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-ii-maintenance)**
+
+
+** Meet Eth2 Staker Checklist **
+* **[https://forum.dappnode.io/t/how-to-meet-eth2-staker-checklist-requirements/618](https://forum.dappnode.io/t/how-to-meet-eth2-staker-checklist-requirements/618)**
 
 Considered using this as a node
 https://www.apple.com/mac-mini/

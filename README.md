@@ -441,6 +441,9 @@ ___
 ** MEV-Boost in a Nutshell (Quickstart and relay list) **
 * **[https://boost.flashbots.net/](https://boost.flashbots.net/)**
 
+**  keep your ETH staking node in great shape and up-to-date. **
+* **[https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-ii-maintenance](https://www.coincashew.com/coins/overview-eth/guide-or-how-to-setup-a-validator-on-eth2-mainnet/part-ii-maintenance)**
+
 Considered using this as a node
 https://www.apple.com/mac-mini/
 

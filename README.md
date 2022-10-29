@@ -7,6 +7,7 @@ Compiled list of resources to help familiarize users with blockchain technologie
 	- [Frameworks](#Frameworks)
  	- [News](#News)
  	- [Defi Tools](#Defi-Tools)
+ 	- [Staking](#staking)
  	- [Smart Contract](#Smart-Contract)
 	- [Terms](#Terms)
 	- [Services](#Services)
@@ -401,6 +402,99 @@ ___
 
 
 * [https://aztec.network/](https://aztec.network/)
+
+
+
+___
+
+### **Staking**
+
+** **
+* **[]()**
+
+**Guide to Staking on Ethereum (Ubuntu/Goerli/Prysm)**
+
+* **[https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-prysm-4a640794e8b5](https://someresat.medium.com/guide-to-staking-on-ethereum-ubuntu-goerli-prysm-4a640794e8b5)**
+
+
+**Keeping track of your node (goerli testnet)**
+* **[https://goerli.beaconcha.in/](https://goerli.beaconcha.in/)**
+
+**ethstaker reddit**
+* **[https://www.reddit.com/r/ethstaker/](https://www.reddit.com/r/ethstaker/)**
+
+** Ethereum-2.0-Mainnet-Guides-Ubuntu **
+* **[https://github.com/SomerEsat/ethereum-staking-guides](https://github.com/SomerEsat/ethereum-staking-guides)**
+
+** Getting goerili test ETH **
+* **[https://faucetlink.to/goerli](https://faucetlink.to/goerli)**
+* **[https://faucets.chain.link/](https://faucets.chain.link/)**
+
+** MEV relay list for Mainnet**
+* **[https://ethstaker.cc/mev-relay-list/](https://ethstaker.cc/mev-relay-list/)**
+* **[https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md](https://github.com/remyroy/ethstaker/blob/main/MEV-relay-list.md)**
+
+**Get Started With MEV-Boost & Blocknative Dreamboat**
+
+* **[https://www.blocknative.com/blog/get-started-mev-boost](https://www.blocknative.com/blog/get-started-mev-boost)**
+
+** MEV-Boost in a Nutshell (Quickstart and relay list) **
+* **[https://boost.flashbots.net/](https://boost.flashbots.net/)**
+
+Considered using this as a node
+https://www.apple.com/mac-mini/
+
+
+CPU: Quad-core, 2.6+ GHz
+RAM: 16 GB DDR4 3200 MHz
+SSD: 2 TB, 15k Read IOPS, 5k Write IOPS*
+Network: 25+ Mbps, 1.5+ TB monthly data cap
+Execution Client: Any
+Consensus Client: Any
+
+NUCs are great for most stakers that only run a few validators because of their low maintenance, low monthly running costs, and ease of setup.
+
+Go through each hardware setup with Parth and determine if hes looking for long term
+
+https://docs.rocketpool.net/guides/node/local/hardware.html#drez-s-laptop
+
+
+Are looking for something longterm I assume?
+Is there a budget for pc parts (I assume there isn't)?
+Would you prefer building a PC or using a NUC, UCs are great for most stakers that only run a few validators because of their low maintenance, low monthly running costs, and ease of setup. However we can't upgrade them and we would have to by a new setup all together if we want to ugprade the node..
+
+Top choices
+Xer0's Server Setup (Great for long term down the line)
+Darcius's Shelf Rig (Cause AMD CPU) 
+GreyWizard's NUC10i7FNH (Mini Case NUC, i7, most popular setup I've seen on discord, it can heat up though)
+Actioncj17's Setup: similar to NUC but AMD
+
+https://0x8f7b17a74569b7a57e9bdafd2e159380759f5dc3ccbd4bf600414147e8c4e1dc6ebada83c0139ac15850eb6c975e82d0@builder-relay-goerli.blocknative.com
+
+[Unit]
+Description=mev-boost (Goerli)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+User=mev-boost
+Group=mev-boost
+WorkingDirectory=/home/mev-boost
+Type=simple
+Restart=always
+RestartSec=5
+ExecStart=/home/mev-boost/bin/mev-boost \
+        -goerli \
+        -relay-check \
+        -relays https://0xafa4c6985aa049fb79dd37010438cfebeb0f2bd42b115b89dd678dab0670c1de38da0c4e9138c9290a398ecd9a0b3110@builder-relay-goerli.flashbots.net,\
+https://0x821f2a65afb70e7f2e820a925a9b4c80a159620582c1766b1b09729fec178b11ea22abb3a51f07b288be815a1a2ff516@bloxroute.max-profit.builder.goerli.blxrbdn.com
+
+[Install]
+WantedBy=multi-user.target
+
+
+
+
 
 ___
 

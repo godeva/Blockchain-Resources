@@ -445,6 +445,13 @@ Considered using this as a node
 https://www.apple.com/mac-mini/
 
 
+** Quick GitHub 'Permission denied (publickey)' SSH error fix **
+* **[https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-GitHubs-Permission-denied-publickey-SSH-error](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-GitHubs-Permission-denied-publickey-SSH-error)**
+
+
+** How I Monitor Active SSH Sessions With Prometheus And Grafana **
+* **[https://towardsdatascience.com/how-i-monitor-active-ssh-sessions-with-prometheus-and-grafana-f4811da0a8cc](https://towardsdatascience.com/how-i-monitor-active-ssh-sessions-with-prometheus-and-grafana-f4811da0a8cc)**
+
 CPU: Quad-core, 2.6+ GHz
 RAM: 16 GB DDR4 3200 MHz
 SSD: 2 TB, 15k Read IOPS, 5k Write IOPS*

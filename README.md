@@ -141,6 +141,9 @@ ___
 * **[https://www.ledger.com/start](https://www.ledger.com/start)**
 
 
+** Ethereum Average Block Time Chart **
+* **[https://etherscan.io/chart/blocktime](https://etherscan.io/chart/blocktime)**
+
 ___
 
 ### **Tools**
@@ -516,6 +519,8 @@ WantedBy=multi-user.target
 ___
 
 ### **Smart Contract**
+
+https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.17+commit.bdeb9e52.js&language=Solidity
 
 
 https://github.com/sigp/solidity-security-blog

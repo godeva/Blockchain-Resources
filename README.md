@@ -144,6 +144,10 @@ ___
 ** Ethereum Average Block Time Chart **
 * **[https://etherscan.io/chart/blocktime](https://etherscan.io/chart/blocktime)**
 
+
+** ETHEREUM VIRTUAL MACHINE (EVM) **
+* **[https://ethereum.org/en/developers/docs/evm/](https://ethereum.org/en/developers/docs/evm/)**
+
 ___
 
 ### **Tools**

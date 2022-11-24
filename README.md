@@ -148,6 +148,13 @@ ___
 ** ETHEREUM VIRTUAL MACHINE (EVM) **
 * **[https://ethereum.org/en/developers/docs/evm/](https://ethereum.org/en/developers/docs/evm/)**
 
+
+** Blockchain Live Events **
+* **[https://platform.blockbeam.io/talent?section=live%20events
+](https://platform.blockbeam.io/talent?section=live%20events
+)**
+
+
 ___
 
 ### **Tools**

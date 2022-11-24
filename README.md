@@ -276,10 +276,23 @@ ___
 
 ### **News**
 
+**Proof of Reserves**
+Proof they have the money to back up there claims.
+Entities which have conducted a recent PoR attestation (updated 11/21/22):
+* [https://niccarter.info/proof-of-reserves/](https://niccarter.info/proof-of-reserves/)
+
+
+https://niccarter.info/proof-of-reserves/
+
+**Tracking MEV-Boost relays and block builders. **
+
+* [https://www.mevboost.org/](https://www.mevboost.org/)
 
 **Dune, data platform digesting powerful blockchain data**
 
 * [https://dune.com/browse/dashboards](https://dune.com/browse/dashboards)
+
+
 
 
 **Be In Crypto**
@@ -524,6 +537,9 @@ https://0x821f2a65afb70e7f2e820a925a9b4c80a159620582c1766b1b09729fec178b11ea22ab
 WantedBy=multi-user.target
 
 
+
+** Guide on how to prepare a staking machine for the Merge **
+* **[https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md](https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md)**
 
 
 

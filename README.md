@@ -545,6 +545,9 @@ https://cryptomarketpool.com/vaults-and-the-erc-4626-token-contract/
 Address calculator/predictor - https://eips.ethereum.org/EIPS/eip-1014EIPs/eip-4907.md at master · ethereum/EIPs
 The Ethereum Improvement Proposal repository. Contribute to ethereum/EIPs development by creating an account on GitHub.
 
+Smart Contract Fuzzer
+https://github.com/crytic/echidna
+
 
 ___
 

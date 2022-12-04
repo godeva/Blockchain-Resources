@@ -547,6 +547,10 @@ ___
 
 ### **Smart Contract**
 
+Best resource I can find for up to date smart contract 2022
+https://cryptocurrencyclass.github.io/
+
+
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.17+commit.bdeb9e52.js&language=Solidity
 
 

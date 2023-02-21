@@ -159,6 +159,10 @@ ___
 
 ### **Tools**
 
+**Fire **
+Simulate mainnet transacation on eth wallet before purchasing, reduces ease of making transactions for newcomers.
+* **[https://mint.joinfire.xyz/](https://mint.joinfire.xyz/)**
+
 
 ** Hashrate calculator**
 * **[https://whattomine.com/coins](https://whattomine.com/coins)**

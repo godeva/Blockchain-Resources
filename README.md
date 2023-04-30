@@ -556,6 +556,12 @@ ___
 
 ### **Smart Contract**
 
+Bitcoin tools for smart contracts
+https://www.hiro.so/stacks-api
+
+
+ETH BELOW
+
 Best resource I can find for up to date smart contract 2022
 https://cryptocurrencyclass.github.io/
 

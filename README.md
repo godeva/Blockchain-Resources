@@ -568,6 +568,7 @@ https://cryptocurrencyclass.github.io/
 
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.17+commit.bdeb9e52.js&language=Solidity
 
+starting with remix is good
 
 https://github.com/sigp/solidity-security-blog
 https://swcregistry.io/
@@ -597,6 +598,9 @@ ___
 
 **Total value locked **
 * The amount of user funds deposited in a decentralized finance (DeFi) protocol. These funds could be vested in the project for several functions, such as staking, liquidity pools, or lending.
+
+Verkle trees are similar to Merkle trees in their structure. A Verkle tree allows you to organize large amounts of data into smaller chunks, using “witnesses” of the original information. This can be confirmed and validated by anyone with access to the root of the tree.Feb 27, 2023
+
 
 ___
 
@@ -645,6 +649,9 @@ Compound Finance is a marketplace used by crypto investors to lend and borrow th
 **Consensys**
 ConsenSys is a market-leading blockchain technology company. From developer tools to enterprise solutions, ConsenSys is building Ethereum blockchain infrastructure and applications for new economic systems that are more open, efficient, and secure. ConsenSys is the leading Ethereum software company.
 * [https://consensys.net/](https://consensys.net/)
+
+DX Dao, biggest Dao near Boston area
+https://dxdao.eth.link/
 
 ___
 

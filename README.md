@@ -18,8 +18,11 @@ ___
 
 ### **Learning Resources**
 
-**Bitcoin Wiki**
+**The greatest Bitcoin explanation of all time.**
+* **[https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA](https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA)**
 
+
+**Bitcoin Wiki**
 
 
 * **[https://en.bitcoin.it/wiki/Main_Page](https://en.bitcoin.it/wiki/Main_Page)**

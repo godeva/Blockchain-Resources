@@ -18,6 +18,9 @@ ___
 
 ### **Learning Resources**
 
+**Value of Blockchain. Database with use cases on blockchain if anyone ask what blockchain can be used for**
+* **[https://thevalueprop.io/](https://thevalueprop.io/)**
+
 **The greatest Bitcoin explanation of all time.**
 * **[https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA](https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA)**
 

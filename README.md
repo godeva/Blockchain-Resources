@@ -297,6 +297,11 @@ Entities which have conducted a recent PoR attestation (updated 11/21/22):
 * [https://niccarter.info/proof-of-reserves/](https://niccarter.info/proof-of-reserves/)
 
 
+* **MEV and Its Impact on the Future of DeFi**
+* [https://fcatalyst.com/blog/april2023/MEV-and-its-impact-on-the-future-of-DeFi)
+
+
+
 https://niccarter.info/proof-of-reserves/
 
 **Tracking MEV-Boost relays and block builders. **

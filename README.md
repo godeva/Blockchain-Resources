@@ -25,6 +25,10 @@ ___
 * **[https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA](https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA)**
 
 
+**Quantic Crypto Finance Intro**
+* **[https://uploads.smart.ly/assets/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e/original/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e.pdf?_ga=2.164184957.398745265.1687990330-1447672619.1649088153](https://uploads.smart.ly/assets/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e/original/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e.pdf?_ga=2.164184957.398745265.1687990330-1447672619.1649088153)**
+
+
 **Bitcoin Wiki**
 
 

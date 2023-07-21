@@ -29,6 +29,10 @@ ___
 * **[https://uploads.smart.ly/assets/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e/original/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e.pdf?_ga=2.164184957.398745265.1687990330-1447672619.1649088153](https://uploads.smart.ly/assets/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e/original/ceecad06236bfc80afa8c8df7bfb212dfba0c7abb67750ff03222b91373fd29e.pdf?_ga=2.164184957.398745265.1687990330-1447672619.1649088153)**
 
 
+What is yield farming
+https://hedera.com/learning/decentralized-finance/defi-yield-farming
+lock crypto tokens for set period to earn rewards for tkens, using smrat contracts yeild farms pay interest with rate from few percentage point to triple digits. 
+
 **Bitcoin Wiki**
 
 

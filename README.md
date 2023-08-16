@@ -173,6 +173,10 @@ ___
 
 ### **Tools**
 
+**CCXT Exchange Library**
+CCXT – CryptoCurrency eXchange Trading Library
+* **[https://github.com/ccxt/ccxt](https://github.com/ccxt/ccxt)**
+
 **Fire **
 Simulate mainnet transacation on eth wallet before purchasing, reduces ease of making transactions for newcomers.
 * **[https://mint.joinfire.xyz/](https://mint.joinfire.xyz/)**
@@ -200,6 +204,8 @@ https://github.com/theGrape1337/lnurl-auth/tree/main
 lightning hosting
 https://voltage.cloud/
 
+Nike NFT creation
+https://www.swoosh.nike/
 
 **RocketPool**
 

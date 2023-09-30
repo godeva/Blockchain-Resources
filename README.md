@@ -181,6 +181,8 @@ CCXT – CryptoCurrency eXchange Trading Library
 Simulate mainnet transacation on eth wallet before purchasing, reduces ease of making transactions for newcomers.
 * **[https://mint.joinfire.xyz/](https://mint.joinfire.xyz/)**
 
+** lorescan block explorer, uses ai to read your smart contracts**
+* **[https://app.lorescan.com/v1/stats](https://app.lorescan.com/v1/stats)**
 
 ** Hashrate calculator**
 * **[https://whattomine.com/coins](https://whattomine.com/coins)**

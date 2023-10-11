@@ -762,4 +762,5 @@ Ethboston
 ETHDenver
 MIT Bitcoin Expo
 Boston Fintech Week
+https://bostonfintechweek.org/agenda/
 Boston DAO

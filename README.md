@@ -191,6 +191,9 @@ Simulate mainnet transacation on eth wallet before purchasing, reduces ease of m
 ** Hashrate calculator**
 * **[https://whattomine.com/coins](https://whattomine.com/coins)**
 
+** SnarksJS with MINA Protocol**
+* **[https://www.youtube.com/watch?v=bPEkBGVKsxs&t=3345s](https://www.youtube.com/watch?v=bPEkBGVKsxs&t=3345s)**
+
 **Figment**
 
 

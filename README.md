@@ -191,7 +191,7 @@ Simulate mainnet transacation on eth wallet before purchasing, reduces ease of m
 ** Hashrate calculator**
 * **[https://whattomine.com/coins](https://whattomine.com/coins)**
 
-** SnarksJS with MINA Protocol**
+** SnarkJS with MINA Protocol**
 * **[https://www.youtube.com/watch?v=bPEkBGVKsxs&t=3345s](https://www.youtube.com/watch?v=bPEkBGVKsxs&t=3345s)**
 
 **Figment**
@@ -593,6 +593,9 @@ WantedBy=multi-user.target
 ___
 
 ### **Smart Contract**
+
+Best Smart Contact course, if your going for a job do this beforehand (Message Parth for reinburse)
+https://smartcontractshacking.com/
 
 Bitcoin tools for smart contracts
 https://www.hiro.so/stacks-api

@@ -25,6 +25,11 @@ ___
 * **[https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA](https://twitter.com/watcherguru/status/1657756177545961473?s=43&t=jKDoeAEe7bV9NZ53FPVvsA)**
 
 
+**Boston Bit Dev.**
+* **[https://github.com/0xBEEFCAF3/bostonbitdevs](https://github.com/0xBEEFCAF3/bostonbitdevs)**
+
+
+
 **NEU Blockchain.**
 * **[https://lu.ma/u/neublockchain](https://lu.ma/u/neublockchain)**
 

@@ -90,7 +90,19 @@ lock crypto tokens for set period to earn rewards for tkens, using smrat contrac
 * **[https://ethereumroadmap.com/](https://ethereumroadmap.com/)**
 
 
+BTC Resources
 
+Bostonbitdevs.org
+Coinkite 
+Coldcard
+Craigraw
+Memepool.space 
+Bolts.exchange/swap
+Archive.ph
+Bitstream
+Output descriptors
+Ocean cuz dashboard 
+BBQr Better Bitcoin QR
 
 **What is staking**
 

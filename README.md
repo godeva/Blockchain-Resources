@@ -335,6 +335,12 @@ ___
 
 ### **News**
 
+* **theblock**
+* [https://www.theblock.pro/)
+
+* **Tree of Alpha**
+* [https://news.treeofalpha.com/)
+
 **Proof of Reserves**
 Proof they have the money to back up there claims.
 Entities which have conducted a recent PoR attestation (updated 11/21/22):

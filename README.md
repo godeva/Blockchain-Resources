@@ -131,8 +131,6 @@ BBQr Better Bitcoin QR
 
 **CoinDesk Glossary**
 
-
-
 * [https://www.coindesk.com/learn/glossary/](https://www.coindesk.com/learn/glossary/)
 
 **Coinmarketcap**
@@ -193,6 +191,10 @@ BBQr Better Bitcoin QR
 ___
 
 ### **Tools**
+
+**POAPS SCAN**
+To see POAPS from wallets
+* **[https://collectors.poap.xyz/scan](https://collectors.poap.xyz/scan)**
 
 **CCXT Exchange Library**
 CCXT – CryptoCurrency eXchange Trading Library

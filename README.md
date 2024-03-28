@@ -614,6 +614,40 @@ WantedBy=multi-user.target
 * **[https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md](https://github.com/eth-educators/ethstaker-guides/blob/main/prepare-for-the-merge.md)**
 
 
+___
+
+### ** Project Taco tools**
+
+** DeBank Cloud The Wallet API allows you to easily get some wallet abilities. **
+* **[https://docs.cloud.debank.com/en/readme/api-pro-reference/wallet](https://docs.cloud.debank.com/en/readme/api-pro-reference/wallet)**
+
+y3 curved crypto, y3 curve digital assets
+
+** Pendle Finance **
+* **[https://www.pendle.finance/](https://www.pendle.finance/)**
+
+** Defi Llama **
+* **[https://defillama.com/](https://defillama.com/)**
+
+
+** B2C2 **
+* **[https://www.b2c2.com/solutions/trading-overview](https://www.b2c2.com/solutions/trading-overview)**
+
+https://cointelegraph.com/learn/a-beginners-guide-to-understanding-wrapped-tokens-and-wrapped-bitcoin
+
+**  **
+* **[]()**
+
+
+___
+
+### ** Contract Aid tools ETHDenver 24 project**
+
+** Smee command will forward webhooks from smee.io to your local development environment. **
+* **[https://smee.io/PqSbViVNLFY4IDT
+](https://smee.io/PqSbViVNLFY4IDT
+)**
+
 
 ___
 
@@ -622,12 +656,26 @@ ___
 ETHDenver 2024 Hackathon Guide
 https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_medium=email&utm_content=Apply+to+%23BUIDL+at+ETHDenver+2024&utm_campaign=B24%3A+E1+-+Apply+to+%23BUIDL&vgo_ee=6EOnBg6UQAiXFHNdtJwBoTPWNP40%2Brn0h10jC1A%2Fuvm%2Ft6Mk%3AAkZBU6wag1yyvcRjg6DvnhtSI5PNOAqg
 
-**  **
-* **[]()**
 
 ** "ETHSecurity" project is an effort to facilitate an open and collaborative community where bast practices on authoring secure Smart Contracts are shared  **
 * **[https://cryptodevhub.io/ethsecurity](https://cryptodevhub.io/ethsecurity)**
 
+** Officer's Notes **
+* **[https://officercia.medium.com/
+](https://officercia.medium.com/
+)**
+
+** ETHEREUM CAT HERDERS, they meet up biweekly to make proposals to eth network, great resources if you wanna get into EIPs and ERCs **
+* **[https://www.ethereumcatherders.com/calendar/](https://www.ethereumcatherders.com/calendar/)**
+
+**  **
+* **[]()**
+
+**  **
+* **[]()**
+
+**  **
+* **[]()**
 
 
 Best Smart Contact course, if your going for a job do this beforehand (Message Parth for reinburse)

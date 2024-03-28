@@ -622,12 +622,19 @@ ___
 ETHDenver 2024 Hackathon Guide
 https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_medium=email&utm_content=Apply+to+%23BUIDL+at+ETHDenver+2024&utm_campaign=B24%3A+E1+-+Apply+to+%23BUIDL&vgo_ee=6EOnBg6UQAiXFHNdtJwBoTPWNP40%2Brn0h10jC1A%2Fuvm%2Ft6Mk%3AAkZBU6wag1yyvcRjg6DvnhtSI5PNOAqg
 
+**  **
+* **[]()**
+
+** "ETHSecurity" project is an effort to facilitate an open and collaborative community where bast practices on authoring secure Smart Contracts are shared  **
+* **[https://cryptodevhub.io/ethsecurity](https://cryptodevhub.io/ethsecurity)**
+
+
+
 Best Smart Contact course, if your going for a job do this beforehand (Message Parth for reinburse)
 https://smartcontractshacking.com/
 
 Bitcoin tools for smart contracts
 https://www.hiro.so/stacks-api
-
 
 ETH BELOW
 

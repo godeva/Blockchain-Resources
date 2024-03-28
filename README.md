@@ -668,11 +668,14 @@ https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_
 ** ETHEREUM CAT HERDERS, they meet up biweekly to make proposals to eth network, great resources if you wanna get into EIPs and ERCs **
 * **[https://www.ethereumcatherders.com/calendar/](https://www.ethereumcatherders.com/calendar/)**
 
-**  **
-* **[]()**
+** https://eips.ethereum.org/ **
+* **[https://eips.ethereum.org/](https://eips.ethereum.org/)**
 
-**  **
-* **[]()**
+** Ethereum Roadmap **
+* **[https://ethereumroadmap.com/](https://ethereumroadmap.com/)**
+
+** Ethereum Whitepaper **
+* **[https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)**
 
 **  **
 * **[]()**

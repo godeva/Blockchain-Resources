@@ -662,8 +662,8 @@ https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_
 ** **
 * **[]()**
 
-* ** **
-* **[]()**
+* ** INK **
+* **[https://use.ink/](https://use.ink/)**
 
 * ** speedrunethereum **
 * **[https://speedrunethereum.com/](https://speedrunethereum.com/)**
@@ -859,12 +859,15 @@ ___
 
 ### **Hackathons**
 
+
+**Crytpo Nomads Org**
+* [https://cryptonomads.org/][https://cryptonomads.org/]
+
 **Ethglobal Hackathon**
 Great begineer friendly guides to get started
 * [https://ethglobal.com/guides](https://ethglobal.com/guides)
 * [https://www.youtube.com/watch?v=70WtsHtFd8Y](https://www.youtube.com/watch?v=70WtsHtFd8Y)
-* 
-
+ 
 
 
 Ethboston

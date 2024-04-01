@@ -859,6 +859,20 @@ ___
 
 ### **Hackathons**
 
+https://devfolio.co/
+https://verify.wickbot.com/
+https://devfolio.co/ethdenver2024/dashboard
+https://www.ethdenver.com/buidlathon
+https://side-events.ethdenver.com/
+https://tally.so/r/wQ79KG
+
+
+
+**ZKquest Game**
+* [https://zkquest.zksync.io/login][https://zkquest.zksync.io/login]
+* https://docs.zksync.io/build/tooling/zksync-cli/getting-started.html#troubleshooting
+* https://docs.zksync.io/
+* 
 
 **Crytpo Nomads Org**
 * [https://cryptonomads.org/][https://cryptonomads.org/]

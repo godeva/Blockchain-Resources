@@ -28,8 +28,6 @@ ___
 **Boston Bit Dev.**
 * **[https://github.com/0xBEEFCAF3/bostonbitdevs](https://github.com/0xBEEFCAF3/bostonbitdevs)**
 
-
-
 **NEU Blockchain.**
 * **[https://lu.ma/u/neublockchain](https://lu.ma/u/neublockchain)**
 
@@ -294,6 +292,10 @@ ___
 
 ### **Frameworks**
 
+
+
+
+
 **Ropsten testnet faucet**
 
 
@@ -332,6 +334,10 @@ ___
 
 https://blockstream.info/
 https://github.com/lightning-signer/vls
+
+
+blockaid 
+scam sniffer
 
 ___
 

@@ -190,6 +190,11 @@ ___
 
 ### **Tools**
 
+**Moralis**
+Moralis API Vendor good covalent alt.
+* **[https://moralis.io/api/discovery/](https://moralis.io/api/discovery/)**
+
+
 **POAPS SCAN**
 To see POAPS from wallets
 * **[https://collectors.poap.xyz/scan](https://collectors.poap.xyz/scan)**

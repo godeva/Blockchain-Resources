@@ -893,6 +893,8 @@ Great begineer friendly guides to get started
 * [https://ethglobal.com/guides](https://ethglobal.com/guides)
 * [https://www.youtube.com/watch?v=70WtsHtFd8Y](https://www.youtube.com/watch?v=70WtsHtFd8Y)
  
+Not a hackathin but 
+https://bitcoinbencryptoclub.com/events-calendar/
 
 
 Ethboston

@@ -26,6 +26,9 @@ A financial **asset** is essentially any property that holds economic value.
 
 Security can be a type of asset. (Stocks, loans can be a security since its easily tradable and holds monetary, versus a building would be an asset and not secuirty cause its not a financial instrument and not easy to trade but still an asset).
 
+https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets
+![image](https://github.com/user-attachments/assets/38da3e23-ef01-41ea-adac-56b427d8ad80)
+
 **Value of Blockchain. Database with use cases on blockchain if anyone ask what blockchain can be used for**
 * **[https://thevalueprop.io/](https://thevalueprop.io/)**
 

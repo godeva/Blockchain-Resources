@@ -24,7 +24,7 @@ ___
 A financial **asset** is essentially any property that holds economic value. 
 **Securities**, on the other hand, are a specific type of financial asset that can be easily traded and have a defined monetary value.
 
-Secuirty can be a type of asset. (Stocks, loans can be a secuirty since its easily tradable and holds monetary, versus a building would be an asset and not secuirty cause its not a financial instrument and not easy to trade but still an asset).
+Security can be a type of asset. (Stocks, loans can be a security since its easily tradable and holds monetary, versus a building would be an asset and not secuirty cause its not a financial instrument and not easy to trade but still an asset).
 
 **Value of Blockchain. Database with use cases on blockchain if anyone ask what blockchain can be used for**
 * **[https://thevalueprop.io/](https://thevalueprop.io/)**

@@ -592,7 +592,7 @@ Consensus Client: Any
 
 NUCs are great for most stakers that only run a few validators because of their low maintenance, low monthly running costs, and ease of setup.
 
-Go through each hardware setup with Parth and determine if hes looking for long term
+Go through each hardware setup and determine if hes looking for long term
 
 https://docs.rocketpool.net/guides/node/local/hardware.html#drez-s-laptop
 
@@ -714,7 +714,7 @@ https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_
 * **[]()**
 
 
-Best Smart Contact course, if your going for a job do this beforehand (Message Parth for reinburse)
+Best Smart Contact course, if your going for a job do this beforehand
 https://smartcontractshacking.com/
 
 Bitcoin tools for smart contracts

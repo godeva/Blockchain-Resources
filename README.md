@@ -18,6 +18,10 @@ ___
 
 ### **Learning Resources**
 
+**What Is DeFi? Understanding Decentralized Finance**
+* **[https://www.forbes.com/advisor/investing/cryptocurrency/defi-decentralized-finance/)**
+
+
 **Value of Blockchain. Database with use cases on blockchain if anyone ask what blockchain can be used for**
 * **[https://thevalueprop.io/](https://thevalueprop.io/)**
 

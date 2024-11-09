@@ -18,6 +18,20 @@ ___
 
 ### **Learning Resources**
 
+**Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets**
+* **[https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)**
+
+* **Bitcoin smart contract**
+* **[[https://www.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets](https://www.pcmag.com/encyclopedia/term/bitcoin-smart-contract))**
+
+* **Bitcoin Script**
+* **[https://www.pcmag.com/encyclopedia/term/bitcoin-script](https://www.pcmag.com/encyclopedia/term/bitcoin-script)**
+
+https://www.pcmag.com/encyclopedia/term/turing-complete
+
+* **Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood**
+* https://github.com/ethereumbook/ethereumbook/tree/develop *
+
 **What Is DeFi? Understanding Decentralized Finance**
 * **[https://www.forbes.com/advisor/investing/cryptocurrency/defi-decentralized-finance/)**
 
@@ -678,8 +692,9 @@ ___
 ETHDenver 2024 Hackathon Guide
 https://www.ethdenver.com/buidl/preparation-guide?utm_source=ActiveCampaign&utm_medium=email&utm_content=Apply+to+%23BUIDL+at+ETHDenver+2024&utm_campaign=B24%3A+E1+-+Apply+to+%23BUIDL&vgo_ee=6EOnBg6UQAiXFHNdtJwBoTPWNP40%2Brn0h10jC1A%2Fuvm%2Ft6Mk%3AAkZBU6wag1yyvcRjg6DvnhtSI5PNOAqg
 
-** **
-* **[]()**
+**
+Patrick Collins **
+* **[https://www.youtube.com/@PatrickAlphaC/videos](https://www.youtube.com/@PatrickAlphaC/videos)**
 
 ** **
 * **[]()**

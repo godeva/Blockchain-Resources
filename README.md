@@ -15,6 +15,32 @@ Compiled list of resources to help familiarize users with blockchain technologie
 	- [Podcasts](#Podcasts)
 	- [Hackathons](#Hackathons)
 ___
+### **Recent tools/docs need to try/read AI/web3**
+
+https://www.walletfinder.ai/
+Copy the exact trades of defis top 1% performers
+
+https://blog.langchain.com/the-rise-of-context-engineering/
+
+https://huggingface.co/learn/mcp-course/unit0/introduction
+
+Like chainlink but with ai 
+https://www.everclear.org/
+
+Smart Contract fellow 
+https://www.youtube.com/c/PatrickCollins
+
+Chainlink courses
+https://go.chain.link/masterclasses
+
+Tray ai
+https://tray.ai/
+
+Crypto aiS
+https://cryptoapis.io/
+
+Google product, transfor UI designs for mobile an web applications
+https://stitch.withgoogle.com/
 
 ### **Learning Resources**
 
